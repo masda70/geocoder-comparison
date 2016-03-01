@@ -2,7 +2,7 @@
 
 Version: 0.0.1
 
-Tool for comparison Geocoder results. Currently supports [Photon](https://github.com/komoot/photon).
+Tool for comparing Geocoder results. Currently supports [Photon](https://github.com/komoot/photon).
 
 Built using SBT.
 
