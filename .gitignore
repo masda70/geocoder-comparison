@@ -1,0 +1,11 @@
+# IDE
+/.idea
+
+# Scala logs
+/*.log
+
+# sbt specific
+target/
+
+# results folder
+results/
