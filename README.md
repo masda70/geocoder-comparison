@@ -4,8 +4,6 @@ Version: 0.0.1
 
 Tool for comparison Geocoder results. Currently supports [Photon](https://github.com/komoot/photon).
 
-Uses ElasticSearch's Java Transport Client v1.7.4.
-
 Built using SBT.
 
 ```
